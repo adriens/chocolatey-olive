@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+           DO NOT HARDCODE THIS FILE WITH DYNAMIC VARIABLES : THIS FILE IS A TEMPLATE
+		   THAT IS PROCESSED BY AN ant build.
+-->
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>olive</id>
+    <title>Olive</title>
+    <version>0.1.1</version>
+    <authors>itsmattkc</authors>
+    <owners>Adrien Sales</owners>
+    <summary>Olive is a free non-linear video editor for Windows.</summary>
+    <description>Olive is a free non-linear video editor for Windows.</description>
+    <projectUrl>https://github.com/olive-editor/olive</projectUrl>
+    <tags></tags>
+    <licenseUrl>https://github.com/olive-editor/olive/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl></iconUrl>
+    <releaseNotes>https://github.com/olive-editor/olive/releases/tag/0.1.1</releaseNotes>
+    <docsUrl>https://github.com/olive-editor/olive/wiki</docsUrl>
+    <bugTrackerUrl>https://github.com/olive-editor/olive/issues</bugTrackerUrl>
+    <!--<mailingListUrl></mailingListUrl>-->
+    <packageSourceUrl>https://github.com/adriens/chocolatey-olive</packageSourceUrl>
+    <projectSourceUrl>https://github.com/olive-editor/olive/</projectSourceUrl>
+  </metadata>
+  
+  <files>
+    <file src="tools\**" target="tools\" />
+  </files>
+
+</package>
