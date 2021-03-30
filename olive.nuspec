@@ -13,7 +13,7 @@
     <summary>Olive is a free non-linear video editor for Windows.</summary>
     <description>Olive is a free non-linear video editor for Windows.</description>
     <projectUrl>https://github.com/olive-editor/olive</projectUrl>
-    <tags></tags>
+    <tags>video editing glsl vst video-editor qt opengl hardware-acceleration</tags>
     <licenseUrl>https://github.com/olive-editor/olive/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.statically.io/gh/adriens/chocolatey-olive/master/olive.png</iconUrl>
