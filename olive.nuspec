@@ -16,7 +16,7 @@
     <tags></tags>
     <licenseUrl>https://github.com/olive-editor/olive/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl></iconUrl>
+    <iconUrl>https://cdn.statically.io/gh/adriens/chocolatey-olive/master/olive.png</iconUrl>
     <releaseNotes>https://github.com/olive-editor/olive/releases/tag/0.1.1</releaseNotes>
     <docsUrl>https://github.com/olive-editor/olive/wiki</docsUrl>
     <bugTrackerUrl>https://github.com/olive-editor/olive/issues</bugTrackerUrl>
